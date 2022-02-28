@@ -2,7 +2,8 @@
 #### ✨Intermediate
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><a/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/><a/>
-Numpy
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/><a/>
+Numpy#013243
 Pandas
 #### ✅Have Used Once
 #### 📖Learning
