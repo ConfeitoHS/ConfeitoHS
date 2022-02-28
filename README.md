@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-#### ✨Intermediate<br/>
+### Skills
+#### ✨Intermediate
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 
-#### Have Used Once<br/>
+#### Have Used Once
 
-#### Learning<br/>
+#### Learning
 <!--
 **ConfeitoHS/ConfeitoHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
