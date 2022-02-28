@@ -1,11 +1,11 @@
 ### 🛠Skills
 #### ✨Intermediate
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> 
-
-#### Have Used Once
-      
-#### Learning
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>&nbsp;
+Numpy
+Pandas
+#### ✅Have Used Once
+#### 📖Learning
   <!--
 **ConfeitoHS/ConfeitoHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
