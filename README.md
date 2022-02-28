@@ -3,6 +3,7 @@
 - Currently Making Backend Application
 - Studying AI, particularly Machine Learning
 - Looking Forward to Research & Develop in the field of AGI
+
 ### 📜 Documents
 Articles, Portfolio, etc. that I have written<br/>
 
@@ -32,6 +33,8 @@ Skills that I'm at the intermediate/basic level are in the first/second rows res
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Octave-0790C0?style=flat-square&logo=octave&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Corona%20Engine-F96F29?style=flat-square&logo=corona%20engine&logoColor=white"/>&nbsp;
 #### Tools
