@@ -51,6 +51,7 @@ Skills that I'm at the intermediate/basic level are in the first/second rows res
 <img src="https://img.shields.io/badge/Fusion%20360-f5c11b?style=flat-square&logo=autodesk&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white"/>&nbsp;
 
+  
 ### 📊 Stats
   
 [![Solved.ac
