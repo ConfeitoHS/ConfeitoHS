@@ -9,9 +9,10 @@ Articles, Portfolio, etc. that I have written<br/>
 
 <a href="https://confeitohs.gitbook.io/gitbook/"><img src="https://img.shields.io/badge/GitBook-AI%20Paper%20Study-3884FF?style=flat-square&logo=gitbook&logoColor=white"/><a/><br/>
 <a href="https://confeitohs.gitbook.io/pytorch-basics-study/"><img src="https://img.shields.io/badge/GitBook-PyTorch%20Basics%20Study-3884FF?style=flat-square&logo=gitbook&logoColor=white"/><a/><br/>
+<a href="https://confeitohs.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Personal%20Blog-EDF720?style=flat-square"/><a/><br/>
   
 ### 🛠 Tech Skills Stack
-Tech skills That I've Used at lease once<br/>
+Tech skills That I've Used at lease once.<br/>
 Skills that I'm at the intermediate/basic level are in the first/second rows respectively.
 #### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
@@ -49,6 +50,12 @@ Skills that I'm at the intermediate/basic level are in the first/second rows res
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Fusion%20360-f5c11b?style=flat-square&logo=autodesk&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white"/>&nbsp;
+
+### 📊 Stats
+#### BOJ / Solved.ac
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bengaleehs)](https://solved.ac/bengaleehs)
+  
 <!--
 **ConfeitoHS/ConfeitoHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
