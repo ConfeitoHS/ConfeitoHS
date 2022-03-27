@@ -56,6 +56,3 @@ Skills that I'm at the intermediate/basic level are in the first/second rows res
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bengaleehs)](https://solved.ac/bengaleehs)
-  
-  
-[![ConfeitoHS' GitHub stats](https://github-readme-stats.vercel.app/api?username=Confeitohs&theme=swift&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
