@@ -13,7 +13,11 @@ Articles, Portfolio, etc. that I have written<br/>
   
 ### 🛠 Tech Skills Stack
 Tech skills That I've Used at lease once.<br/>
-Skills that I'm at the intermediate/basic level are in the first/second rows respectively.
+Skills that I'm at the 
+  - intermediate level => in first rows
+  - basic level => second rows 
+
+respectively.
 #### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>&nbsp;
