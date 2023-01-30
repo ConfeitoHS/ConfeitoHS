@@ -1,5 +1,5 @@
-### 👋 Hello! I am a student that
-- Studying CSE and Math Minor in GIST College
+### 👋 Hello! I am an undergraduate student that
+- Studying CSE and Math Minor in GIST 
 - Currently Making Backend Application for Drive Courses
 - Studying AI, particularly Machine Learning
 - Looking Forward to Research & Develop in the field of AGI
