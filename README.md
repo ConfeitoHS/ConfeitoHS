@@ -5,10 +5,10 @@
 - Looking Forward to Research & Develop in the field of AGI
 
 ### 📜 Documents
-Articles, Portfolio, etc. that I have written<br/>
-
-<a href="https://confeitohs.gitbook.io/gitbook/"><img src="https://img.shields.io/badge/GitBook-AI%20Paper%20Study-3884FF?style=flat-square&logo=gitbook&logoColor=white"/><a/><br/>
-<a href="https://confeitohs.gitbook.io/pytorch-basics-study/"><img src="https://img.shields.io/badge/GitBook-PyTorch%20Basics%20Study-3884FF?style=flat-square&logo=gitbook&logoColor=white"/><a/><br/>
+Articles, Portfolio, etc. that I have written and studied<br/>
+<a href="https://confeitohs.notion.site/AI-ML-Paper-Study-2434b01af2524a7c92d49ef9db89076b"><img src="https://img.shields.io/badge/Notion-AI%2FML%20Study-faf0cd?style=flat-square&logo=notion&logoColor=white"/><a/><br/>
+<a href="https://confeitohs.gitbook.io/gitbook/"><img src="https://img.shields.io/badge/GitBook-AI%20Paper%20Study (2021)-3884FF?style=flat-square&logo=gitbook&logoColor=white"/><a/><br/>
+<a href="https://confeitohs.gitbook.io/pytorch-basics-study/"><img src="https://img.shields.io/badge/GitBook-PyTorch%20Basics (2021)-3884FF?style=flat-square&logo=gitbook&logoColor=white"/><a/><br/>
 <a href="https://confeitohs.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Personal%20Blog-EDF720?style=flat-square"/><a/><br/>
   
 ### 🛠 Tech Skills Stack
@@ -41,7 +41,6 @@ respectively.
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Octave-0790C0?style=flat-square&logo=octave&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Corona%20Engine-F96F29?style=flat-square&logo=corona%20engine&logoColor=white"/>&nbsp;
 #### Tools
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;
@@ -52,7 +51,6 @@ respectively.
 <br/>
 <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe%20after%20effects&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Fusion%20360-f5c11b?style=flat-square&logo=autodesk&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white"/>&nbsp;
 
   
