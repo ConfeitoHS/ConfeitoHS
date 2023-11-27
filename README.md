@@ -37,17 +37,13 @@ Skills that I'm used to are in the first row of each category.
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;
 #### Tools
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=gitbook&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobe%20premiere%20pro&logoColor=white"/>&nbsp;
 <br/>
 <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe%20after%20effects&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white"/>&nbsp;
-
   
 ### 📊 Stats
   
