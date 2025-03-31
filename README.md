@@ -12,8 +12,7 @@ Articles, Portfolio, etc. that I have written and studied<br/>
 <a href="https://confeitohs.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Personal%20Blog-EDF720?style=flat-square"/><a/><br/>
   
 ### 🛠 Tech Skills Stack
-Tech skills That I've Used at lease once.<br/>
-Skills that I'm used to are in the first row of each category.
+Tech skills that I'm used to
 #### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>&nbsp;
