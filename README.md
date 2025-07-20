@@ -1,8 +1,8 @@
-### 👋 Hello! I am an undergraduate student that
-- Studying CSE and Math Minor in GIST 
-- Currently Making Backend Application for Drive Courses
+### 👋 Hello! I am...
+- Majored in CSE and Math Minor in GIST
+- Currently at KAIST MLML as an intern 
 - Studying AI, particularly Machine Learning
-- Looking Forward to Research & Develop in the field of AGI
+- Looking forward to Research & development in the field of AGI
 
 ### 📜 Documents
 Articles, Portfolio, etc. that I have written and studied<br/>
