@@ -1,6 +1,6 @@
 ### 👋 Hello! I am...
 - Majored in CSE and Math Minor in GIST
-- Currently at KAIST MLML as an intern 
+- Currently at KAIST MLML as a MS Student
 - Studying AI, particularly Machine Learning
 - Looking forward to Research & development in the field of AGI
 
